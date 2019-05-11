@@ -1,0 +1,7 @@
+.idea
+__pycache__
+config.py
+data.csv
+icbc.csv
+/douban
+/mfwphotopk
